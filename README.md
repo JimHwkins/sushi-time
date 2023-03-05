@@ -4,7 +4,13 @@ Alex Ferru\
 Joseph Du
 
 ## Description
-Sushi Time is a full stack online food ordering application that lets a user place an order with the restaurant. Once the order is received, the user will receive SMS notifications when the order is placed and when the order is ready to be picked up.
+Sushi Time is a full-stack online food ordering application that our team developed as a group project. Our application allows users to easily place an order with their favorite restaurant, and once the order is received, the user receives SMS notifications when the order is placed and when the order is ready to be picked up.
+
+As a team, we utilized a variety of technologies, including jQuery, Bootstrap, HTML, CSS, Node, Express, PostgreSQL, and the Twilio API to build this project. We collaborated on designing the user interface and implementing the back-end functionality, which allowed us to gain valuable experience in developing a full-stack web application.
+
+One of the most exciting features of this project was integrating the Twilio API to send SMS notifications to the user. We worked together to ensure that this feature was implemented seamlessly, allowing the user to receive real-time updates about their order status.
+
+Overall, Sushi Time was a challenging and rewarding group project that allowed us to showcase our skills in web development and create a useful application that enhances the user experience.
 
 ## Technologies
 Front-End: Jquery, Bootstrap, HTML, CSS\
